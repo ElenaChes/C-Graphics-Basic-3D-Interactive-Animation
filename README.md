@@ -1,4 +1,4 @@
-# Interactive 3D Animation.
+# Interactive 3D Animation
 
 <img align="right" style="width:350px; height:auto;" src="https://github.com/ElenaChes/C-Graphics-Basic-3D-Interactive-Animation/assets/54331769/efa5c0a3-9abd-4834-9a8f-8dd3a50ce739">
 
