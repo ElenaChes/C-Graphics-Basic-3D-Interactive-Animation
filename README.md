@@ -8,7 +8,8 @@ Description: an interactive 3D animation.
 # Installation
 
 1. Run `Graphics Final.exe` or compile `Graphics Final.sln` via Visual Studio.
-2. Raw code file is in Graphics Final->Final.c
+
+Raw code file is in Graphics Final/Final.c.
 
 > You might need to find a glut32.dll to download off the internet<br>if your pc doesn't have it already.
 
