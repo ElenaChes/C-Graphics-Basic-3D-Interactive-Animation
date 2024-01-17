@@ -5,13 +5,24 @@
 A college project in C.<br>
 Description: an interactive 3D animation.
 
+<details>
+  <summary><h3>Content</h3></summary>
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Known bugs](#known-bugs)
+
+</details>
+<hr>
+
 # Installation
 
 1. Run `Graphics Final.exe` or compile `Graphics Final.sln` via Visual Studio.
 
-Raw code file is in Graphics Final/Final.c.
+Raw code file is in `Graphics Final/Final.c`.
 
-> You might need to find a glut32.dll to download off the internet<br>if your pc doesn't have it already.
+> [!NOTE]
+> You might need to find a glut32.dll to download off the internet if your pc doesn't have it already.
 
 # Usage
 
